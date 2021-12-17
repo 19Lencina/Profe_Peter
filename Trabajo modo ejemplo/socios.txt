@@ -1,0 +1,7 @@
+1, Fox,  Mulder, 3430948309,  2,  1
+2, Steve, Rogers, 26505640, 0, 0
+3, Clark, Kent, 26505641, 4, 2
+4, Peter, Parker, 26505642, 2, 1
+5, Steve,  Rogers, 26505640,  0,  0
+6, Clark, Kent, 26505641, 4, 2
+7, Peter, Parker, 26505642, 2, 1

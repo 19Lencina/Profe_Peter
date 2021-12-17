@@ -1,0 +1,9 @@
+﻿Consigna:
+Agregar un registro nuevo en la base de datos de nombre “nombre_y_apellido” donde almacenaremos el nombre y el apellido concatenado del socio que demos de alta mediante el entorno visual. Agregarlo como propiedad en la clase Socio, con todo lo que esto implica desde el desarrollo hasta la modificación de los constructores/métodos.
+
+Realizar las modificaciones necesarias en la Base de Datos y en el código fuente de la aplicación, respetando siempre el patrón MVC.
+Respetar el modelado de los objetos (Socio en nuestro caso). 
+Una vez realizados nuestros cambios, debemos tener en cuenta que  todas las funcionalidades originales (agregar socio, modificar socio y buscar socio) deberán funcionar como en un principio. Queremos decir con esto, 
+que los agregados/modificaciones que hagamos, no deben romper o modificar las funcionalidades originales que tiene la aplicación.
+Tomar como base el ejemplo que se ha dado y explicado la última clase.
+
